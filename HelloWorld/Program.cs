@@ -8,7 +8,6 @@ namespace HelloWorld
 		{
 			Console.WriteLine ("Hello World!");
 			Console.WriteLine ("Hello World111!");
-			Console.WriteLine ("Hello World222!");
 			Console.WriteLine ("Hello World333!");
 		}
 	}
